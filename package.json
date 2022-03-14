@@ -1,0 +1,16 @@
+{
+  "name": "Twilio-rep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mail-listener-fixed2": "^1.0.2",
+    "twilio": "^3.75.1"
+  }
+}
